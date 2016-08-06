@@ -1,0 +1,40 @@
+_repo: Les-chasseurs-de-chevelures_10682
+_version: 0.0.1
+alternative_title: The scalp hunters. French
+contributor:
+  translator:
+    agent_name: Bureau, Allyre
+    birthdate: 1810
+    deathdate: 1859
+    gutenberg_agent_id: '40514'
+    url: http://www.gutenberg.org/2009/agents/40514
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Reid, Thomas Mayne
+    - Mayne-Reid, Captain
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_bookshelf:
+- FR Jeunesse
+- Children's Fiction
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10682'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- New Mexico -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'New Mexico -- Social life and customs -- 19th century -- Juvenile fiction'
+- GITenberg
+title: Les chasseurs de chevelures
+url: http://www.gutenberg.org/ebooks/10682
